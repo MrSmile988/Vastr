@@ -1,4 +1,4 @@
-Vastr
+<img src="http://www.vastr.de/img/logo.png" alt="Vastr" />
 =====
 
 The open source faster reading experience
